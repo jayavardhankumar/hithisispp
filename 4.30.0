@@ -1,0 +1,2 @@
+Requirement already satisfied: tqdm in c:\users\aetur\downloads\kyc-verification-master\kyc-verification-master\venv\lib\site-packages (4.66.2)
+Requirement already satisfied: colorama in c:\users\aetur\downloads\kyc-verification-master\kyc-verification-master\venv\lib\site-packages (from tqdm) (0.4.6)

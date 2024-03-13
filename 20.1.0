@@ -1,0 +1,2 @@
+Requirement already satisfied: gunicorn in c:\users\aetur\downloads\kyc-verification-master\kyc-verification-master\venv\lib\site-packages (21.2.0)
+Requirement already satisfied: packaging in c:\users\aetur\downloads\kyc-verification-master\kyc-verification-master\venv\lib\site-packages (from gunicorn) (24.0)

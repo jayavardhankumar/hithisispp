@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-python in c:\users\aetur\downloads\kyc-verification-master\kyc-verification-master\venv\lib\site-packages (4.9.0.80)
+Requirement already satisfied: numpy>=1.21.2 in c:\users\aetur\downloads\kyc-verification-master\kyc-verification-master\venv\lib\site-packages (from opencv-python) (1.26.4)
